@@ -17,11 +17,13 @@ import matplotlib.pyplot as plt
 
 ## Pandas
 데이터프레임(sql) 라이브러리
+
 + ### 시리즈(Series)
   ```
   1차원 배열
   인덱스, 값
   ```
+  
 + ### 데이터프레임(DataFrame) ★
   ```
   2차원 리스트(=테이블), 행렬
