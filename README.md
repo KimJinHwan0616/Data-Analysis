@@ -1,19 +1,22 @@
 ># 데이터 분석
->### Pandas, Numpy, Matplotlib
+>### Pandas, Numpy, Matplotlib, Seaborn
 
 ```
 #   패키지 설치
 #   pip install pandas
 #   pip install numpy
 #   pip install matplotlib
+#   pip install seaborn
 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 
-# pd.__version__    # pandas 버전
-# np.__version__    # numpy 버전
-# plt.__version__   # matplotlib 버전
+# pd.__version__     # pandas 버전
+# np.__version__     # numpy 버전
+# plt.__version__    # matplotlib 버전
+# sns.__version__    # seaborn 버전
 ```
 
 ## Pandas
@@ -36,3 +39,6 @@ import matplotlib.pyplot as plt
 
 ## Matplotlib
 그래프
+
+## Seaborn
+컬러그래프(Matplotlib - 색깔 자동)
