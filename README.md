@@ -1,5 +1,6 @@
 ># 데이터 분석
 >### Pandas, Numpy, Matplotlib
+
 ```
 #   패키지 설치
 #   pip install pandas
@@ -13,7 +14,7 @@ import matplotlib.pyplot as plt
 # pd.__version__    # pandas 버전
 # np.__version__    # numpy 버전
 # plt.__version__   # matplotlib 버전
->```
+```
 
 ## Pandas
 데이터프레임(sql) 라이브러리
